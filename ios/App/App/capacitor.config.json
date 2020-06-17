@@ -1,0 +1,12 @@
+{
+  "appId": "dk.peterlindholm.capacitorkeyboard",
+  "appName": "capacitor-keyboard",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
